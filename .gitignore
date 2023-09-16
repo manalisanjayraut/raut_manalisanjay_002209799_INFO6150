@@ -1,0 +1,4 @@
+# Files #
+############
+# ignore npm packages
+*.npm
